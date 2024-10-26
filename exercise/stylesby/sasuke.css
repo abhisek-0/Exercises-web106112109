@@ -1,0 +1,63 @@
+p{
+  font-family: Arial;
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+.fb-preview{
+  display: grid;
+  grid-template-columns: 200px 200px 200px 200px 200px;
+  column-gap: 10px;
+  row-gap: 20px;
+}
+.card{
+  width: 200px;
+  border: none;
+  box-shadow: 0 1px 5px rgba(0,0,0,0.25);
+  padding-bottom: 10px;
+
+  margin-left: 10px;
+  margin-bottom: 10px;
+  
+
+}
+.sasuke-dp{
+  width: 200px;
+  height: 200px;
+  object-fit: cover;
+  object-position: center;
+}
+.name{
+  font-weight: bold;
+  margin-top: 5px;
+  margin-bottom: 5px;
+  margin-left: 10px;
+  font-size:16px
+}
+.comm-img{
+  width: 38px;
+  object-fit: cover; 
+  border-radius:70px;
+}
+.comm{
+  font-size: 13px;
+  color: rgb(100,100,100);
+  margin-bottom: 7px;
+  margin-left: 2px;
+}
+.fb-add{
+  background-color: #1d9bf0;
+  color: white;
+  border: none;
+  padding: 8px 17px;
+  border-radius: 3px;
+  margin-left: 10px;
+  font-weight: bold;
+
+}
+.account{
+  display: grid;
+  grid-template-columns:38px 1fr ;
+  align-items: center;
+  margin-bottom: 7px;
+  margin-left: 10px;
+}

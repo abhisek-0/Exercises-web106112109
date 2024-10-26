@@ -1,0 +1,36 @@
+p{
+  font-size: 30px;
+  margin-top: 0px;
+  margin-bottom: 20px;
+  font-family: Arial;
+}
+
+.location,
+.vision{
+  display: block;
+  width: 246px;
+  padding-top: 13px;
+  background-color: rgb(240, 240, 240);
+  padding-bottom: 13px;
+  padding-left: 10px;
+  padding-right: 10px;
+  border-radius: 5px;
+  border-style: none;
+  border-color:white ;
+  margin-bottom: 8px;
+  border-width: 1px;
+}
+.request-button{
+  color:white;
+  background-color: black;
+  border: none;
+  padding: 10px 20px;
+}
+.later{
+  color:black;
+  background-color:rgb(240,240,240);
+  border: none;
+  padding: 10px 20px;
+  border-width: 1px;
+  border-color:white;
+}
